@@ -7,3 +7,13 @@ C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\
 C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.GenerateResource.Cache
 C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.exe
 C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.pdb
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.exe.config
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.exe
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.pdb
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.AssemblyReference.cache
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student_Grade_Tracker.Form1.resources
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student_Grade_Tracker.Properties.Resources.resources
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.GenerateResource.cache
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.CoreCompileInputs.cache
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.exe
+D:\Nvq6 sem1 -software-Change-Management\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.pdb
