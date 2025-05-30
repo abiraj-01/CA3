@@ -1,0 +1,17 @@
+ private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtStudent.Clear();
+            txtGrade.Clear();
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if (lstGrades.SelectedIndex != -1)
+            {
+                lstGrades.Items.RemoveAt(lstGrades.SelectedIndex);
+            }
+            else
+            {
+                MessageBox.Show("Please select an entry to delete.");
+            }
+        }

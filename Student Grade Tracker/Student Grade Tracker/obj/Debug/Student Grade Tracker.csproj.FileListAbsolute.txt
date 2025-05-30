@@ -1,0 +1,9 @@
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.exe.config
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.exe
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\bin\Debug\Student Grade Tracker.pdb
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csprojResolveAssemblyReference.cache
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student_Grade_Tracker.Form1.resources
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student_Grade_Tracker.Properties.Resources.resources
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.csproj.GenerateResource.Cache
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.exe
+C:\Users\V.Balalojanan\Desktop\CA 3\Student Grade Tracker\Student Grade Tracker\obj\Debug\Student Grade Tracker.pdb
